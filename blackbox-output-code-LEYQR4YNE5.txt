@@ -1,3 +1,0 @@
-git push -u origin master
-# or if your default branch is main:
-# git push -u origin main
